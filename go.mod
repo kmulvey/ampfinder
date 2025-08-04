@@ -1,6 +1,6 @@
 module github.com/kmulvey/ampfinder
 
-go 1.23.4
+go 1.24.5
 
 require (
 	github.com/gocolly/colly v1.2.0
